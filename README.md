@@ -1,5 +1,5 @@
 <a href="https://mihirlakhani.in/">
-  <img src="assets/banner.png?v=09914d4" alt="Mihir Lakhani | AI/ML, GenAI and full-stack development" width="100%" />
+  <img src="https://raw.githubusercontent.com/Mihir-Lakhani/Mihir-Lakhani/09914d4/assets/banner.png" alt="Mihir Lakhani | AI/ML, GenAI and full-stack development" width="100%" />
 </a>
 
 I'm a Computer Science student at **SRMIST**, building toward full-stack AI/ML engineering. I enjoy taking a project from the model or retrieval pipeline to an API and an interface people can actually use.
