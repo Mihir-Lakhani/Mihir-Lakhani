@@ -7,7 +7,7 @@ I'm a Computer Science student at **SRMIST**, building toward full-stack AI/ML e
 My current focus is **GenAI and RAG**, alongside learning how to deploy, evaluate, and maintain AI applications. My work includes academic ML experiments, a deployed portfolio assistant, and full-stack prototypes.
 
 <p>
-  <a href="https://mihirlakhani.in/"><img src="assets/portfolio-badge.svg" alt="Visit my portfolio" height="30" /></a>
+  <a href="https://mihirlakhani.in/"><img src="assets/portfolio-badge.png" alt="Visit my portfolio" height="30" /></a>
 </p>
 
 ## Skills & Tools
@@ -22,7 +22,7 @@ My current focus is **GenAI and RAG**, alongside learning how to deploy, evaluat
 An assistant built around curated documentation from my own projects. It combines BM25 search with local embeddings through Ollama, uses Gemini to answer from selected evidence, and validates citations before returning a response. Unsupported and private-information requests are declined.
 
 <p>
-  <a href="https://mihirlakhani.in/"><img src="assets/portfolio-badge.svg" alt="Try the RAG Assistant on my portfolio" height="30" /></a>
+  <a href="https://mihirlakhani.in/"><img src="assets/portfolio-badge.png" alt="Try the RAG Assistant on my portfolio" height="30" /></a>
   <a href="https://github.com/Mihir-Lakhani/Mihir-portfolio"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code on GitHub" height="30" /></a>
 </p>
 
@@ -44,6 +44,6 @@ A vehicle-record management prototype with a React/TypeScript interface, Flask R
 ---
 
 <p>
-  <a href="https://mihirlakhani.in/"><img src="assets/portfolio-badge.svg" alt="Visit my portfolio" height="30" /></a>
+  <a href="https://mihirlakhani.in/"><img src="assets/portfolio-badge.png" alt="Visit my portfolio" height="30" /></a>
   <a href="https://www.linkedin.com/in/mihir-lakhani-149504327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" height="30" /></a>
 </p>
