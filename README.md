@@ -22,7 +22,7 @@ My current focus is **GenAI and RAG**, alongside learning how to deploy, evaluat
 An assistant built around curated documentation from my own projects. It combines BM25 search with local embeddings through Ollama, uses Gemini to answer from selected evidence, and validates citations before returning a response. Unsupported and private-information requests are declined.
 
 <p>
-  <a href="https://mihirlakhani.in/"><img src="assets/portfolio-badge.png" alt="Try the RAG Assistant on my portfolio" height="30" /></a>
+  <a href="https://mihirlakhani.in/"><img src="https://img.shields.io/badge/Open%20Chat-31473A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open the RAG Assistant chat" height="30" /></a>
   <a href="https://github.com/Mihir-Lakhani/Mihir-portfolio"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code on GitHub" height="30" /></a>
 </p>
 
