@@ -6,7 +6,9 @@ I'm a Computer Science student at **SRMIST**, building toward full-stack AI/ML e
 
 My current focus is **GenAI and RAG**, alongside learning how to deploy, evaluate, and maintain AI applications. My work includes academic ML experiments, a deployed portfolio assistant, and full-stack prototypes.
 
-**[Explore my portfolio and ask about my work](https://mihirlakhani.in/)**
+<p>
+  <a href="https://mihirlakhani.in/"><img src="assets/portfolio-badge.svg" alt="Visit my portfolio" height="30" /></a>
+</p>
 
 ## Skills & Tools
 
@@ -19,18 +21,29 @@ My current focus is **GenAI and RAG**, alongside learning how to deploy, evaluat
 ### Source-Cited RAG Assistant
 An assistant built around curated documentation from my own projects. It combines BM25 search with local embeddings through Ollama, uses Gemini to answer from selected evidence, and validates citations before returning a response. Unsupported and private-information requests are declined.
 
-[Try it on my portfolio](https://mihirlakhani.in/) · [Code](https://github.com/Mihir-Lakhani/Mihir-portfolio)
+<p>
+  <a href="https://mihirlakhani.in/"><img src="assets/portfolio-badge.svg" alt="Try the RAG Assistant on my portfolio" height="30" /></a>
+  <a href="https://github.com/Mihir-Lakhani/Mihir-portfolio"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code on GitHub" height="30" /></a>
+</p>
 
 ### 5G Handover with Stability-Aware ML
 An academic ML and simulation project exploring how recent network KPI history can support earlier, more stable handover recommendations. It connects offline model training, a Flask inference API, and an interactive browser simulation. It does not control a live cellular network.
 
-[Explore the simulation](https://mihirlakhani.in/mobility) · [Code](https://github.com/Mihir-Lakhani/5G-Handover-Stability-Aware-ML)
+<p>
+  <a href="https://mihirlakhani.in/mobility"><img src="https://img.shields.io/badge/Open%20Simulation-31473A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open the 5G Handover simulation" height="30" /></a>
+  <a href="https://github.com/Mihir-Lakhani/5G-Handover-Stability-Aware-ML"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code on GitHub" height="30" /></a>
+</p>
 
 ### Fleet Smart Vehicle Digital Twin
 A vehicle-record management prototype with a React/TypeScript interface, Flask REST API, and MongoDB. A separate Python desktop controller explores Arduino-based hardware interaction. The project is a learning prototype, not a production fleet platform.
 
-[Code](https://github.com/Mihir-Lakhani/fleet-digital-twin-eclipse-ditto)
+<p>
+  <a href="https://github.com/Mihir-Lakhani/fleet-digital-twin-eclipse-ditto"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code on GitHub" height="30" /></a>
+</p>
 
 ---
 
-[Portfolio](https://mihirlakhani.in/) · [LinkedIn](https://www.linkedin.com/in/mihir-lakhani-149504327/)
+<p>
+  <a href="https://mihirlakhani.in/"><img src="assets/portfolio-badge.svg" alt="Visit my portfolio" height="30" /></a>
+  <a href="https://www.linkedin.com/in/mihir-lakhani-149504327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" height="30" /></a>
+</p>
